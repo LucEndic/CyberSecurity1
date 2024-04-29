@@ -1,0 +1,12 @@
+<html>
+<head>
+<body>
+<h1 style="text-align:center; background-color:dodgerblue;"> Malware and how it can harm you. </h1> 
+<img src="/images/image123.jpg" alt="Malware Image">
+<p> There are many different types of computer viruses that can harm your system. The first computer virus was created in 1986 after two brothers in Pakistan noticed computers were running their software without paying for it. One of these viruses is known as a <b> Trojan Horse. </b> </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Akhilleus_Patroklos_Antikensammlung_Berlin_F2278.jpg/375px-Akhilleus_Patroklos_Antikensammlung_Berlin_F2278.jpg" alt="trojan painting">
+<p> A <a href="https://en.wikipedia.org/wiki/Trojan_Horse"> Trojan horse </a> is a virus that disguises itself as a useful feature or product, and is therefor harmless or beneficial for the user to install. After the program has been installed, it may lay dormant for a period of time before activating a secret task or section of code. Trojan horses can be used by hackers to take down servers or attack websites. </p>
+<p> Another form of a virus is <b> Spyware</b>. Spyware will sit on your computer and try to hide from you by sitting deep within files that one normally would not check. <a href="https://en.wikipedia.org/wiki/Spyware"> Spyware </a> is used to spy on the user and log keystrokes, and other private information that a bad actor may use against you. </p>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Bonzi_Buddy.png/330px-Bonzi_Buddy.png" alt="Bonzi Buddy">
+<h2 style="background-color:red;"> No matter how innocent a program may seem, it could do damage! </h2>
+<p> Check out my <a href="https://en.wikipedia.org/wiki/Rootkit">"Myspace"</a> to discover more interesting Malware facts! </p>
